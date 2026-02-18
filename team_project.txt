@@ -14,3 +14,9 @@ Feature B implemented
 
 Feature A implemented
 
+
+
+
+##this is for rebase the perject and learning 
+
+Feature C added and we want to rebase that 
